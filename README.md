@@ -3,7 +3,6 @@
 This is my simple temperature converter GUI application built using Tkinter in Python.
 
 ## Live Demo
-![See the project live!](live_run.mov)
 ![code ouput](Output.png)
 
 ## Usage
